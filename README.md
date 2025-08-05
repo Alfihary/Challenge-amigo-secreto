@@ -52,6 +52,10 @@ amigo-secreto/
 
 ## 💻 Instalación y Ejecución
 
+### 🌐 Versioón en linea (GitHub Pages)
+La aplicación esta desplegada automaticamente en GitHub Pages:
+**[Ver aplicación en vivo](https://alfihary.github.io/Challenge-amigo-secreto/)**
+
 ### Opción 1: Descarga directa
 ```bash
 # Clona o descarga el repositorio
