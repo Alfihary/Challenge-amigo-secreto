@@ -55,7 +55,7 @@ amigo-secreto/
 ### Opción 1: Descarga directa
 ```bash
 # Clona o descarga el repositorio
-git clone [https://github.com/Alfihary/Challenge-amigo-secreto.git]
+git clone https://github.com/Alfihary/Challenge-amigo-secreto.git
 
 # Navega al directorio
 cd amigo-secreto
@@ -67,10 +67,6 @@ cd amigo-secreto
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
-## 👨‍💻 Autor
-
-Desarrollado con ❤️ para hacer más fácil la organización de intercambios de regalos.
 
 ---
 
