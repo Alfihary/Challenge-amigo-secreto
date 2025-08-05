@@ -4,13 +4,12 @@ Una aplicación web simple para organizar sorteos de amigo secreto de manera rá
 
 ## 📝 Descripción
 
-**Amigo Secreto** es una herramienta web que permite agregar nombres de amigos y realizar un sorteo aleatorio para determinar quién será el amigo secreto. Perfecta para organizar intercambios de regalos en reuniones familiares, fiestas de oficina, o cualquier celebración.
-
+**Amigo Secreto** es una herramienta web que permite agregar nombres de amigos y realizar un sorteo aleatorio para determinar quién será el amigo secreto.
 ## ✨ Características
 
 - **Interfaz intuitiva**: Diseño limpio y fácil de usar
 - **Agregar participantes**: Añade tantos nombres como necesites
-- **Validación de entrada**: Evita campos vacíos y nombres duplicados
+- **Validación de entrada**: Evita campos vacíos
 - **Sorteo aleatorio**: Algoritmo justo para la selección
 - **Lista visual**: Visualiza todos los participantes antes del sorteo
 - **Resultado destacado**: Muestra claramente el ganador del sorteo
@@ -20,7 +19,6 @@ Una aplicación web simple para organizar sorteos de amigo secreto de manera rá
 - **HTML5**: Estructura semántica y accesible
 - **CSS3**: Estilos modernos con variables CSS y Flexbox
 - **JavaScript**: Lógica de la aplicación sin dependencias
-- **Google Fonts**: Tipografías Inter y Merriweather
 
 ## 📁 Estructura del Proyecto
 
@@ -57,7 +55,7 @@ amigo-secreto/
 ### Opción 1: Descarga directa
 ```bash
 # Clona o descarga el repositorio
-git clone [[URL-del-repositorio](https://github.com/Alfihary/Challenge-amigo-secreto.git)]
+git clone [https://github.com/Alfihary/Challenge-amigo-secreto.git]
 
 # Navega al directorio
 cd amigo-secreto
